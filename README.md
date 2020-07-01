@@ -1,2 +1,2 @@
 # IAP labs
-LHM - CIR - BBQ - PGE
+ IAP labs consolidated into one
